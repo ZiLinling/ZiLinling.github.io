@@ -4,45 +4,25 @@
   
     
     <entry>
-      <title>qwq</title>
-      <link href="/2023/03/06/qwq/"/>
-      <url>/2023/03/06/qwq/</url>
+      <title>Django 学习日志(一)</title>
+      <link href="/2023/03/09/Django%20%E5%AD%A6%E4%B9%A0%E6%97%A5%E5%BF%97(%E4%B8%80)/"/>
+      <url>/2023/03/09/Django%20%E5%AD%A6%E4%B9%A0%E6%97%A5%E5%BF%97(%E4%B8%80)/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>Django 是使用 Python 语言开发的一款免费而且开源的 Web 应用框架。</p><p>Django 借鉴了经典的 MVC 模式，它也将交互的过程分为了 3 个层次，也就是 MTV 设计模式；</p><ul><li>Model：数据存储层，处理所有数据相关的业务，和数据库进行交互，并提供数据的增删改查。</li><li>Template：模板层（也叫表现层）具体来处理页面的显示。</li><li>View：业务逻辑层，处理具体的业务逻辑，它的作用是连通Model 层和 Template。</li></ul><p><img src="https://article.biliimg.com/bfs/article/32d5a8f6f39dcb75d0cfcae676f999649c8a7f19.jpg" alt="Django"></p>]]></content>
       
       
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>text</title>
-      <link href="/2023/03/06/test/"/>
-      <url>/2023/03/06/test/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
+      <categories>
+          
+          <category> 个人学习 </category>
+          
+      </categories>
       
       
         <tags>
             
-            <tag> 哈哈 </tag>
+            <tag> Django </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2023/03/06/hello-world/"/>
-      <url>/2023/03/06/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
       
     </entry>
     

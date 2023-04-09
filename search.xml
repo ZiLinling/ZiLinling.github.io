@@ -8,7 +8,7 @@
       <link href="/2023/03/09/Django%20%E5%AD%A6%E4%B9%A0%E6%97%A5%E5%BF%97(%E4%B8%80)/"/>
       <url>/2023/03/09/Django%20%E5%AD%A6%E4%B9%A0%E6%97%A5%E5%BF%97(%E4%B8%80)/</url>
       
-        <content type="html"><![CDATA[<p>Django 是使用 Python 语言开发的一款免费而且开源的 Web 应用框架。</p><p>Django 借鉴了经典的 MVC 模式，它也将交互的过程分为了 3 个层次，也就是 MTV 设计模式；</p><ul><li>Model：数据存储层，处理所有数据相关的业务，和数据库进行交互，并提供数据的增删改查。</li><li>Template：模板层（也叫表现层）具体来处理页面的显示。</li><li>View：业务逻辑层，处理具体的业务逻辑，它的作用是连通Model 层和 Template。</li></ul><p><img src="https://article.biliimg.com/bfs/article/32d5a8f6f39dcb75d0cfcae676f999649c8a7f19.jpg" alt="Django"></p>]]></content>
+        <content type="html"><![CDATA[<img class=top_img decoding="async" src="https://article.biliimg.com/bfs/article/32d5a8f6f39dcb75d0cfcae676f999649c8a7f19.jpg"><p>Django 是使用 Python 语言开发的一款免费而且开源的 Web 应用框架。</p><p>Django 借鉴了经典的 MVC 模式，它也将交互的过程分为了 3 个层次，也就是 MTV 设计模式；</p><ul><li>Model：数据存储层，处理所有数据相关的业务，和数据库进行交互，并提供数据的增删改查。</li><li>Template：模板层（也叫表现层）具体来处理页面的显示。</li><li>View：业务逻辑层，处理具体的业务逻辑，它的作用是连通Model 层和 Template。</li></ul>]]></content>
       
       
       <categories>

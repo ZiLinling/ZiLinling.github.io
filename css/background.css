@@ -2,3 +2,7 @@
     background-size: cover !important;
     background-repeat: no-repeat !important;
 }
+
+.top_img {
+    display: none;
+}
